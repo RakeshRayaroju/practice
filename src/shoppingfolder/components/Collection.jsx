@@ -2,6 +2,7 @@ import React from 'react'
 
 const Collection = (props) => {
   const{tittle, image1, image2, image3, image4, image5, image6}=props.gentsFashion
+  
   return (
     <div className='collectionSection'>
       <h2>{tittle}</h2>

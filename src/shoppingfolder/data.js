@@ -15,7 +15,7 @@ export const Gents  = {
 }
 export const Ladies = {
    tittle:"Ladies Fashion",
-//    image1:"assets/Women/1.jpg",
+   image1:"assets/Women/1.jpg",
    image2:"assets/Women/2.jpg",
    image3:"assets/Women/3.jpg",
    image4:"assets/Women/4.jpg",
